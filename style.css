@@ -1,0 +1,16 @@
+.nav{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: lightblue;
+    color: #000000;
+    padding: 10px;
+    z-index: 10000;
+    
+}
+
+.Goals{
+ text-align: center;
+ color: blue; 
+}
